@@ -17,11 +17,11 @@ _My Name is Muhammad Ammar_
 A.My hobbies
   -Playing chess
   *Watching movies
-- [x]Completing Assignment
-- []Securing 4.00 GPA in PF
-- [x]Going for a walk
-- []Reviewing Notes
-  Use `git status` to check the current repository state.
+- [x] Completing Assignment
+- [ ] Securing 4.00 GPA in PF
+- [x] Going for a walk
+- [ ] Reviewing Notes 
+Use `git status` to check the current repository state.
 ```bash
 git add .
 git commit -m "Commit message"
